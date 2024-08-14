@@ -1,0 +1,4 @@
+identify 05 p0 (Critical) scenarios and write bdd test cases for them
+given
+when
+then

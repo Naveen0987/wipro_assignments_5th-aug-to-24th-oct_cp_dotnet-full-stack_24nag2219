@@ -1,0 +1,8 @@
+1) Sprint Planning: The team sets goals and selects tasks for the upcoming sprint (usually 2-4 weeks).
+
+2) Daily Scrum: A daily meeting (15 minutes or less) for team members to share progress, plans, and obstacles.
+
+3) Sprint Review: A meeting to demonstrate and review the work completed during the sprint.
+
+4) Sprint Retrospective: A meeting for the team to reflect on the sprint, identify improvements, and implement changes for the next sprint.
+
